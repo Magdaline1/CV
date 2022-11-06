@@ -1,77 +1,65 @@
-## Your Name
+## Magdaline Amoakohene
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A committed and enthusiastic Law graduate now working towards a career in tech. Currently training at Makers Academy to become a junior developer.
 
-## Projects
+Languages: Ruby
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Just Eat Takeaway** (Oct 2021 - Present)  
+_Solutions Advisor_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Analysing the root cause of issues and escalations and aiming
+to resolve matters first time.
+- Work to individual and team targets to maintain service level
+and ensure customer satisfaction.
+- Investigate trends for both customers and restaurants,
+providing resolutions and recommendations to mitigate
+repeated issues.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Student Loans Company** (June 2020 - Oct 2021)  
+_Eligibility Assessor_
 
-- Any experience relevent to software development
+- Determining whether a student is eligible for financing based
+on the submitted documentation.
+- Evidence validation - ensuring evidence received is
+compliant with regulations.
+- Verifying Home Office documentation for non-British
+students and sponsors.
+
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Analysis & research
 
--STAR
--What was the situation/task? (ST)
+Having completed a Law degree, I am confident in my ability to research and analyse documents when necessary. These are skills I used almost daily to gain further knowledge and deliver a well-rounded view on the topic at hand.
 
--How was the skill used?
+#### Communication
 
--What did you do? (action)
+Whether written or verbal, I have been able to build on the way I communicate with people at different levels. This is mainly due to my extensive experience in customer service and administration roles, however my extra-curricular activities at university also played a big part in this.
 
--What was the result?
+#### Adaptability
 
+In my previous roles, I have been able to pick up the use of new programmes and software to help complete a task. I have also learnt to use others for my own hobbies and independent projects such as video editing and graphic design. Some of the programmes include:
+- Photoshop & InDesign
+- Final Cut Pro
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (November 2022 - Present)
+- Learning to code using Ruby
+- Paring with other students to problemsolve effeciently and build on knowledge.
 
-#### Your University / College (start_date to end_date)
+#### BPP University (Sept. 2016 to Oct. 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- LLB Law (accelerated) 2:2
+- 'StreetLaw' : Extra-curricular activity. Aimed to keep the public informed of their legal rights and the help available to them. Involved presenting in schools, prisons and shelters. Topics varied.
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Art & design
+- Writing
+- Travelling
