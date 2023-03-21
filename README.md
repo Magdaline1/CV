@@ -2,12 +2,12 @@
 
 A committed and enthusiastic Law graduate now working towards a career in tech. Currently training at Makers Academy to become a junior developer.
 
-Languages: Ruby
+Languages: Ruby, Javascript
 
 
 ## Work Experience
 
-**Just Eat Takeaway** (Oct 2021 - Present)  
+**Just Eat Takeaway** (Oct 2021 - Feb 2023)  
 _Solutions Advisor_
 
 - Analysing the root cause of issues and escalations and aiming
@@ -48,13 +48,13 @@ In my previous roles, I have been able to pick up the use of new programmes and 
 
 ## Education
 
-#### Makers Academy (November 2022 - Present)
-- Learning to code using Ruby
-- Paring with other students to problemsolve effeciently and build on knowledge.
+#### Makers Academy (November 2022 - Feb 2023)
+- Learning to code using Ruby and Javascript
+- Paring with other students to problem-solve effeciently and build on knowledge.
 
 #### BPP University (Sept. 2016 to Oct. 2018)
 
-- LLB Law (accelerated) 2:2
+- LLB Law (accelerated)
 - 'StreetLaw' : Extra-curricular activity. Aimed to keep the public informed of their legal rights and the help available to them. Involved presenting in schools, prisons and shelters. Topics varied.
 
 
